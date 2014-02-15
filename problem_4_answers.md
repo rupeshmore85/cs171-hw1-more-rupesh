@@ -212,4 +212,13 @@
       });
   </script>
 </body>
-</html>  				  
+</html>
+
+
+
+/**
+
+Note: The 3 Questions asked in Problem 4 is answered in a separate document "Problem_4_answers.docx" which is checked in.
+Thanks.
+
+*/
